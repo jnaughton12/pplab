@@ -1,0 +1,6 @@
+tools/*
+download-core-tools.ps1
+run-solution-packager.ps1
+run-solution-packager.bat
+*.zip
+*.exe
